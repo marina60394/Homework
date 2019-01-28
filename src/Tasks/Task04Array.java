@@ -3,7 +3,7 @@ package Tasks;
 /**
  * Created by Marina on 27.01.2019.
  */
-public class Task_04_Array {
+public class Task04Array {
     public static void main(String[] args) {
         int[] intArray = {1,8,0,3};
 

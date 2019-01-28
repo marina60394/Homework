@@ -3,7 +3,7 @@ package Tasks;
 /**
  * Created by Marina on 27.01.2019.
  */
-public class Task_02_Variables {
+public class Task02Variables {
     public static void main(String[] args) {
         int intVariable=1;
         double doubleVariable;
