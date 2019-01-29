@@ -1,4 +1,4 @@
-package Tasks;
+package Homework02;
 
 /**
  * Created by Marina on 27.01.2019.
