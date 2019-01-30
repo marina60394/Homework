@@ -37,13 +37,8 @@ public class Task03CompareCollections {
             System.out.println(iteratorBeforeComparing.next());
         }
 
-        Iterator<String> itr = hashSet.iterator();
-        while (itr.hasNext()) {
-            if(linkedList.contains(itr.next())){
-                itr.remove();
-            }
-        }
-
+        hashSet.retainAll(linkedList);
+        
         System.out.println("\n" + "LinkedList: ");
         for(int num=0; num<linkedList.size(); num++)
         {
