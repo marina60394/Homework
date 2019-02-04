@@ -38,7 +38,7 @@ public class Task03CompareCollections {
         }
 
         hashSet.retainAll(linkedList);
-        
+
         System.out.println("\n" + "LinkedList: ");
         for(int num=0; num<linkedList.size(); num++)
         {
