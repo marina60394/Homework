@@ -5,6 +5,10 @@ import java.lang.reflect.Constructor;
 /**
  * Created by Marina on 03.02.2019.
  */
+
+/**
+ * Enum. It's just a list of day of weeks
+ */
 public enum EnumDayOfWeeks {
 
     //  These are values

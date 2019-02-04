@@ -26,8 +26,12 @@ public abstract class AbstractClass {
      */
     public abstract void printPhrase();
 
-    // These are values
+    /**
+     * Enum. It's just a list of months
+     */
     public enum EnumMonth {
+
+        // These are values
         JaANUARY("January"),
         FEBRUARY("February"),
         MARCH("March"),
