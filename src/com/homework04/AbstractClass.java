@@ -13,7 +13,7 @@ public abstract class AbstractClass {
 
     /**
      *   Constructor
-     *   All classes that inherited that abstracy class must create the same constructor
+     *   All classes that inherited that abstract class must create the same constructor
      *   @param numOfMonth
      */
     public AbstractClass(int numOfMonth){
